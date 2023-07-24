@@ -60,6 +60,10 @@ section{
 	background-color: #25D366 !important;
 }
 
+.work-img{
+	width: 50%;
+}
+
 @media (max-width: 1000px){
 
 	section{
@@ -72,6 +76,10 @@ section{
 	a.btn{
 		padding: 15px 30px;
 		font-size: 15px;
+	}
+
+	.work-img{
+		width: 100%;
 	}
 }
 
